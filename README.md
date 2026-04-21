@@ -367,7 +367,7 @@
                 <span>Français</span><span class="text-slate-400">Courant</span>
               </li>
               <li class="flex items-center justify-between gap-3">
-                <span>Anglais</span><span class="text-slate-400">B1.2</span>
+                <span>Anglais</span><span class="text-slate-400">B2</span>
               </li>
             </ul>
           </div>
